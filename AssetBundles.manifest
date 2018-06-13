@@ -1,0 +1,62 @@
+{
+"version":"1.0",
+
+"assetBundles": [
+		{
+			"title": "Asset Bundle 1",
+			"index": 0,
+			"studio": "ExxonMobil",
+			"type": 3,
+			"assetBundleName": "assetbundle1",
+			"sharedAssetBundleName": "shared",
+			"scene": "assetbundle1",
+			"description":"This is a test asset bundle.",
+			"date_published": "12.01.2016",
+			"comfort":3,
+			"stream_tex":"AssetBundles/DisplayImage_assetBundle1",
+			"stream_vid":""
+		},
+		{
+			"title": "Asset Bundle 2",
+			"index": 1,
+			"type": 3,
+			"assetBundleName": "assetbundle2",
+			"sharedAssetBundleName": "shared",
+			"studio": "ExxonMobil",
+			"scene": "assetbundle2",
+			"description":"This is a test asset bundle.",
+			"date_published": "12.02.2016",
+			"comfort":3,
+			"stream_tex":"AssetBundles/DisplayImage_assetBundle2",
+			"stream_vid":""
+		},
+		{
+			"title": "Asset Bundle 3",
+			"index": 2,
+			"type": 3,
+			"assetBundleName": "assetbundle3",
+			"sharedAssetBundleName": "shared",
+			"studio": "ExxonMobil",
+			"scene": "assetbundle3",
+			"description":"This is a test asset bundle.",
+			"date_published": "12.03.2016",
+			"comfort":3,
+			"stream_tex":"AssetBundles/DisplayImage_assetBundle3",
+			"stream_vid":""
+		},
+		{
+			"title": "Remote AssetBundle 1",
+			"index": 3,
+			"type": 3,
+			"assetBundleName": "assetbundleRemote1",
+			"sharedAssetBundleName": "shared",
+			"studio": "ExxonMobil",
+			"scene": "assetbundleRemote1",
+			"description":"This is a test asset bundle.",
+			"date_published": "12.03.2016",
+			"comfort":3,
+			"stream_tex":"AssetBundles/DisplayImage_assetBundleRemote1",
+			"stream_vid":""
+		}
+	]
+}
