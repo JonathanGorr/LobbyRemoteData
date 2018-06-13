@@ -43,20 +43,6 @@
 			"comfort":3,
 			"stream_tex":"AssetBundles/DisplayImage_assetBundle3",
 			"stream_vid":""
-		},
-		{
-			"title": "Remote AssetBundle 1",
-			"index": 3,
-			"type": 3,
-			"assetBundleName": "assetbundleRemote1",
-			"sharedAssetBundleName": "shared",
-			"studio": "ExxonMobil",
-			"scene": "assetbundleRemote1",
-			"description":"This is a test asset bundle.",
-			"date_published": "12.03.2016",
-			"comfort":3,
-			"stream_tex":"AssetBundles/DisplayImage_assetBundleRemote1",
-			"stream_vid":""
 		}
 	]
 }
